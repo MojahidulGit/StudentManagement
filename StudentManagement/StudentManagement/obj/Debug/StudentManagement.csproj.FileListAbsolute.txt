@@ -1,0 +1,7 @@
+C:\Users\princ\Documents\Student Project\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\princ\Documents\Student Project\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\princ\Documents\Student Project\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\princ\Documents\Student Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\princ\Documents\Student Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\princ\Documents\Student Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\princ\Documents\Student Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
